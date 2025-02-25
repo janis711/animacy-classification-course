@@ -1,0 +1,10 @@
+pandas
+stanza
+tqdm
+scikit-learn
+gensim
+nltk
+numpy
+scipy==1.12
+transformers
+ipywidgets
