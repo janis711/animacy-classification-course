@@ -1,0 +1,11 @@
+{
+  "deletedDefinitions": [
+    "CATMA_4F557F8F-1444-4D56-B81B-9F802F8C5E74",
+    "CATMA_707BE1DC-F9FD-4849-AFD7-8696EAA241EB",
+    "CATMA_C5A7F787-0ED5-4B06-93D0-9836258EBEBF"
+  ],
+  "description": "Einmalige Annotation des Ausdrucks, der die belebte Entität einführt (Referenz durch Namen, Beschreibung, o.ä.)",
+  "forkedFromCommitURL": null,
+  "name": "Ebene 1",
+  "responsibleUser": "janis_vonkeitz"
+}

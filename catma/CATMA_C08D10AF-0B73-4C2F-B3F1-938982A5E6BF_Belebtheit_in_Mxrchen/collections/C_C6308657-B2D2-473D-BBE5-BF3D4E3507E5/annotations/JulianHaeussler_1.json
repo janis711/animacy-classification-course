@@ -1,0 +1,3441 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_1A513F35-CDA9-4697-9677-204152A67606",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:50:59.898+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 4827,
+            "end": 4829,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_65104405-2A2A-4366-AC61-7C18A36EB4E9",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:03.918+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 4845,
+            "end": 4847,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_4C325BFF-59FA-4678-AB40-A2C700254FFE",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:06.939+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 4860,
+            "end": 4863,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_30CE0146-20F5-488F-83F2-F1D08E3902E4",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:16.804+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 4864,
+            "end": 4868,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_125073BC-B488-43BF-8A6F-BAF63B901492",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:24.727+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 4902,
+            "end": 4905,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_9176CE4F-163A-447C-8BF0-709DA6350801",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:28.449+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 4932,
+            "end": 4935,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_25FCCBD6-7339-497F-B1DA-8B64F9822F3B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:33.430+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 4964,
+            "end": 4968,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_2DC8D8C2-2566-4163-BF1A-A9ED95C3E302",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:37.464+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 4987,
+            "end": 4997,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_02B9E79C-2FB7-45B1-BF98-DF4408883536",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:42.558+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5029,
+            "end": 5032,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_4A382A8A-0BA8-4B15-AEDE-EC27EE4362C6",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:46.939+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5083,
+            "end": 5085,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_B190439A-EEDA-4755-90F2-DDDD7155B64D",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:50.988+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5087,
+            "end": 5090,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_C77C59DD-36EB-42EA-B09A-E3FCB79993B4",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:56.007+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5139,
+            "end": 5143,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_7D0CBAFF-E36A-4CC1-8ECA-6F4766AD1868",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:51:59.851+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5147,
+            "end": 5151,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_687CC50E-DC81-4DE6-93E3-CA22073C9BA6",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:52:05.272+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5178,
+            "end": 5182,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_19B8726E-3E8F-4224-81EB-D1E07D80B47B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:52:09.643+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5218,
+            "end": 5221,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_3DEC1916-5159-41CE-80A1-E9A0A5561E6B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:52:21.358+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5243,
+            "end": 5247,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5247,
+            "end": 5260,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_A85BCCD0-BEDB-4F8B-B5B9-FE411360F43A",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:52:37.331+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5303,
+            "end": 5320,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_C557B43E-5E18-4624-A83C-841D22310453",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:52:41.872+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5322,
+            "end": 5325,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_6C1149D1-3544-4BF8-9309-6893ADBE24B7",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:52:45.384+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5326,
+            "end": 5329,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_540A8E38-A329-488A-8C83-120AFAF179DC",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:52:50.904+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5361,
+            "end": 5364,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_6AE197C4-6CF0-4F78-A039-A5FC06290EB2",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:52:55.273+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5372,
+            "end": 5377,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_E2244C2A-E350-48FB-A7AC-9A2E84532223",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:01.446+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5419,
+            "end": 5428,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_85534E82-2775-4F3A-9727-C2D0D8306116",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:06.291+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5462,
+            "end": 5465,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_F5F8CAA4-E0E6-475F-9C37-7C7F9D458A3C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:09.213+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5484,
+            "end": 5486,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_96AB65CA-3296-4A73-8F8C-B4A9F14DC12A",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:14.808+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5506,
+            "end": 5509,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_C9AF57F2-A73C-4F9E-A1C1-A331D513479B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:18.569+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5517,
+            "end": 5519,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_5D44B637-8C7D-4E7C-BA59-29618FA2C2D0",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:21.800+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5556,
+            "end": 5559,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_8A8C47CB-A324-4046-900D-42806FF636C1",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:25.593+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5560,
+            "end": 5563,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_BB39CBEA-80D9-4271-B6C1-11688B4793AA",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:31.686+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5587,
+            "end": 5590,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_59CE6C2C-07C1-4B9C-857D-CEF563715888",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:36.511+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5609,
+            "end": 5612,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_C89518B5-1371-47BD-AD1A-456DD9012AF9",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:40.565+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5631,
+            "end": 5634,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_C3234397-0787-47B7-8F43-0B9C583744C9",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:44.071+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5657,
+            "end": 5659,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_85DB8F91-E2CD-4CE0-B26F-B0A375EEA361",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:48.728+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5682,
+            "end": 5685,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_AEA420CE-16EF-480F-84B2-D7313ABA251B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:53.508+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5696,
+            "end": 5699,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_8CFC7C32-AC0B-426D-B459-5E1B5C0F9287",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:53:57.139+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5725,
+            "end": 5727,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_CD32547C-85B9-4EC6-8A63-A4420B6A033A",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:02.017+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5733,
+            "end": 5737,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_4ED8E498-1FB9-4D2F-AE5F-BBD6C9E3C20B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:07.290+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5751,
+            "end": 5754,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_066EA2D1-4564-4487-8574-9228935A74F3",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:11.246+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5760,
+            "end": 5772,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_716EF449-3171-40EB-BB05-3431015D0B03",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:14.377+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5783,
+            "end": 5786,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_3DC2BFDC-FAAD-4845-862A-74E05FBC9DE5",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:17.138+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5810,
+            "end": 5813,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_63B1141B-BBC6-4D0B-B059-CAF48300A004",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:24.669+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5830,
+            "end": 5833,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_7636F3B2-D5BB-474F-A794-E16453F8A25B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:27.950+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5879,
+            "end": 5881,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_9E33F43A-BB17-46EE-BE77-62E2CD0E55F4",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:32.777+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5894,
+            "end": 5896,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5896,
+            "end": 5913,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_91ECD72A-FDC4-4A32-B4FA-F38EB6290280",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:38.121+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5923,
+            "end": 5925,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_C0A05116-A461-4357-AC75-7888DA0A3461",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:42.287+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5947,
+            "end": 5949,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_8FE88E7C-8804-4665-9A89-E078B1EE6F0D",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "CATMA_BECA5141-894C-4B9A-907F-86C1586147C8": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_BECA5141-894C-4B9A-907F-86C1586147C8",
+        "CATMA_E3DD41D1-0CCD-4B90-92A0-B83C9D556516": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_E3DD41D1-0CCD-4B90-92A0-B83C9D556516",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913",
+      "tag": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:46.552+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {
+          "CATMA_BECA5141-894C-4B9A-907F-86C1586147C8": [],
+          "CATMA_E3DD41D1-0CCD-4B90-92A0-B83C9D556516": []
+        }
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5971,
+            "end": 5985,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_65DDA06D-4970-459B-B4D9-35277CA60EEE",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:52.698+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 5971,
+            "end": 5985,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_A130A2DD-51C9-41AF-A637-91166B967A3A",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:54:58.537+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6022,
+            "end": 6025,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_828407E6-52DA-46D9-9789-64CCF745646A",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:55:49.474+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6059,
+            "end": 6063,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6063,
+            "end": 6088,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_3BB201FF-0684-4238-B642-8A6DE60EDC09",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:58:13.056+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6102,
+            "end": 6104,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_6B7E87DE-5AFA-4C4C-811A-4C3559AE7D38",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:58:16.652+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6105,
+            "end": 6108,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_81A8036F-2205-4C3C-B2FA-60B070AFD1D8",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:58:21.247+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6110,
+            "end": 6112,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_15777E92-DE1C-4E47-BF91-EB7192383C8B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "CATMA_BECA5141-894C-4B9A-907F-86C1586147C8": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_BECA5141-894C-4B9A-907F-86C1586147C8",
+        "CATMA_E3DD41D1-0CCD-4B90-92A0-B83C9D556516": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_E3DD41D1-0CCD-4B90-92A0-B83C9D556516",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913",
+      "tag": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:58:32.848+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {
+          "CATMA_BECA5141-894C-4B9A-907F-86C1586147C8": [],
+          "CATMA_E3DD41D1-0CCD-4B90-92A0-B83C9D556516": []
+        }
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6122,
+            "end": 6138,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_3797B389-9280-4AB9-B154-EA91D228E662",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:58:39.544+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6122,
+            "end": 6138,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_7ECB9A99-B376-48D3-ADBF-06023EFEF31D",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:58:47.833+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6176,
+            "end": 6179,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_23A35475-ED73-49C6-837E-DB6F1BFAE98E",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:58:56.876+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6215,
+            "end": 6218,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_67A3820A-241C-4B17-9900-4CF284B91A6C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:01.242+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6246,
+            "end": 6249,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_3BBBBD7C-D5E5-48C7-966D-098CC47C8C6C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:05.010+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6262,
+            "end": 6266,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_C32A38E0-15E2-4434-AD42-5D986DE9B163",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:10.860+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6295,
+            "end": 6298,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_121A9741-16FD-4EF6-8088-BB0CD2E1BEAC",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:14.833+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6340,
+            "end": 6343,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_B0415927-E3A0-4932-9CB8-2564053C627C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:19.761+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6388,
+            "end": 6407,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_7EC48630-C480-4657-A5FF-22EED2BF0B98",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:25.289+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6418,
+            "end": 6421,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_2523B8D6-80A3-41AF-B0B2-0F646D2D81A3",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:31.484+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6511,
+            "end": 6539,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_355DF5D1-56CA-4273-B381-126ABBD14864",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:35.685+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6549,
+            "end": 6567,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_74E520B7-8F46-46F6-9CFB-01994A2B66C6",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:40.411+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6569,
+            "end": 6587,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_26319553-627A-4C76-8CE4-A0C89F1AD12B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:47.342+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6615,
+            "end": 6624,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_ECA5DCCF-B3CC-4F44-B961-4CD552A45F50",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:52.601+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6668,
+            "end": 6670,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_D5D19BA7-3794-421E-A635-2085B8DDF734",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T21:59:58.151+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6699,
+            "end": 6703,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_2B9FF01F-FFB4-4BFA-970D-87E80A081A81",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:02.605+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6732,
+            "end": 6735,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_59286B97-E766-464E-8C18-69697059F50F",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:09.494+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6800,
+            "end": 6816,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_DA151FF3-5D38-4129-823B-89B96B1B6518",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:13.732+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6820,
+            "end": 6824,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_6F6A22AF-FEF2-4D90-8DE6-16E3F70F5E75",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:17.639+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6840,
+            "end": 6858,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_118D0C66-775E-4ABA-89E0-2BAC8D0DFD40",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:29.002+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6957,
+            "end": 6960,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_8A6E9373-9CED-4C9B-ABA5-EABF65C70F9C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:33.642+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 6998,
+            "end": 7012,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_868A6B00-BD4D-48AB-BBD6-B2124B6BBDAE",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:39.228+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 7027,
+            "end": 7030,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_B296D0D9-645E-4EDC-B354-F1DE3BE1F053",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:43.293+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 7077,
+            "end": 7079,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_820FFE29-55ED-4A1D-AD4A-4FCCFF8D9CF7",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:50.146+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 7111,
+            "end": 7119,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_AC7379A5-4F3F-4048-8701-3ACA326E84B1",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:53.830+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 7150,
+            "end": 7154,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_B46F2283-ECE9-43B4-B87E-793377BED521",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:00:59.777+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 7196,
+            "end": 7202,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_CAA0D466-8BE4-4FED-8397-9C066CE3A22A",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:01:05.716+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 7253,
+            "end": 7256,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_C021BACC-D48A-4879-9714-8FB0819072DF",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:01:10.962+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 7285,
+            "end": 7288,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_9086EB60-8617-455E-8336-F2F40A0E055B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:01:17.459+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 7393,
+            "end": 7407,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_F7E82FFD-1378-49F4-AF53-7CD3D61B7A1D",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-24T22:01:31.108+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 7524,
+            "end": 7533,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_47D21944-7D36-41B9-80A7-2FA8775410AC",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "CATMA_BECA5141-894C-4B9A-907F-86C1586147C8": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_BECA5141-894C-4B9A-907F-86C1586147C8",
+        "CATMA_E3DD41D1-0CCD-4B90-92A0-B83C9D556516": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C/CATMA_E3DD41D1-0CCD-4B90-92A0-B83C9D556516",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913",
+      "tag": "tagsets/T_8D9AC042-A1DE-40F0-A7C9-A1B03025E913/CATMA_676DA8FC-229D-4BB1-83B4-E6D6959F338C",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-25T11:04:54.192+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {
+          "CATMA_BECA5141-894C-4B9A-907F-86C1586147C8": [],
+          "CATMA_E3DD41D1-0CCD-4B90-92A0-B83C9D556516": []
+        }
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 121,
+            "end": 135,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_C6308657-B2D2-473D-BBE5-BF3D4E3507E5/annotations/CATMA_B71CFB4D-8910-425E-955E-F52EF7D780E3",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+      "tag": "tagsets/T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029/CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-09-25T11:05:00.762+0200"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "JulianHaeussler"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_F93B34DE-347A-43FB-B3EE-E615DC7FA314",
+          "selector": {
+            "start": 121,
+            "end": 135,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  }
+]

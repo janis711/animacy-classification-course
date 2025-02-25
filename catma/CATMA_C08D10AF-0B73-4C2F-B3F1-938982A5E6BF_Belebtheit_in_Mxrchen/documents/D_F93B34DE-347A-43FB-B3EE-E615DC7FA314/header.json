@@ -1,0 +1,22 @@
+{
+  "gitContentInfoSet": {
+    "author": "",
+    "description": "",
+    "publisher": "",
+    "title": "1. Der Froschkönig oder der eiserne Heinrich"
+  },
+  "gitIndexInfoSet": {
+    "locale": "de",
+    "unseparableCharacterSequences": [],
+    "userDefinedSeparatingCharacters": []
+  },
+  "gitTechInfoSet": {
+    "charset": "UTF-8",
+    "checksum": 628022120,
+    "fileName": "Der Froschkönig oder der eiserne Heinrich (1857).txt",
+    "fileOSType": "DOS",
+    "fileType": "TEXT",
+    "mimeType": "text/plain",
+    "responsibleUser": "JulianHaeussler"
+  }
+}
