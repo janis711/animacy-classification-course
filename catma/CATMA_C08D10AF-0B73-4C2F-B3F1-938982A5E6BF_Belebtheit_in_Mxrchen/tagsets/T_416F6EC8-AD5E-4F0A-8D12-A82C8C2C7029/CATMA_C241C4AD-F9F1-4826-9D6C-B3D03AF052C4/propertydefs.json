@@ -1,0 +1,28 @@
+{
+  "name": "belebte_entität",
+  "parentUuid": "",
+  "systemPropertyDefinitions": {
+    "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": {
+      "name": "catma_markuptimestamp",
+      "possibleValueList": [],
+      "uuid": "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6"
+    },
+    "CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A": {
+      "name": "catma_displaycolor",
+      "possibleValueList": [
+        "-11902465"
+      ],
+      "uuid": "CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A"
+    },
+    "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": {
+      "name": "catma_markupauthor",
+      "possibleValueList": [
+        "janis_vonkeitz"
+      ],
+      "uuid": "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF"
+    }
+  },
+  "tagsetDefinitionUuid": "T_416F6EC8-AD5E-4F0A-8D12-A82C8C2C7029",
+  "userDefinedPropertyDefinitions": {},
+  "uuid": "CATMA_C241C4AD-F9F1-4826-9D6C-B3D03AF052C4"
+}
