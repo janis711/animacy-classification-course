@@ -1,6 +1,6 @@
 # Animacy Annotation & Classification
 
-Dieses Repository enthält ein Jupyter Notebook, das Teil eines Lehrkonzepts zur automatischen und manuellen Annotation belebter Entitäten in deutschen Texten ist. Es vermittelt den Vergleich zwischen Machine-Learning-gestützter und manueller Annotation sowie die Evaluierung eines Classifiers anhand von Precision, Recall und F1-Score.
+Dieses Repository enthält ein Jupyter Notebook, das Teil eines Lehrkonzepts zur automatischen und manuellen Annotation belebter Entitäten in deutschen Texten ist. Es vermittelt den Vergleich zwischen Machine-Learning-gestützter und manueller Annotation sowie die Evaluierung eines Classifiers anhand von Precision, Recall und F1-Score. Die manuellen Annotationen werden mit dem [gitma Package](https://github.com/forTEXT/gitma) geladen. 
 
 Der zugrundeliegende Code basiert auf dem Projekt **"Animacy in German Folktales"**:  
 **Häußler, J., von Keitz, J., Gius, E. (2024).** Animacy in German Folktales. CHR 2024: Computational Humanities Research Conference, December 4 – 6, 2024, Aarhus, Denmark.  
@@ -8,17 +8,19 @@ Der zugrundeliegende Code basiert auf dem Projekt **"Animacy in German Folktales
 
 
 ## 📂 Inhalt
-- **`animacy_annotation.ipynb`** – Haupt-Notebook zur Annotation und Evaluation  
+- **`animacy_annotation.ipynb`** – Haupt-Notebook zur Annotation und Evaluation.
 - **`models/`** – Vortrainierter Classifier und Vektorisierer
 - **`features/`** - Klassen für die Feature Extraktion
 - **`catma/`** - Manuelle Annotationen, die mit dem gitma Package aus Catma exportiert wurden.   
-- **Beispieldaten** – Manuelle Annotationen aus CATMA  
+
 
 ## 🚀 Nutzung
 ### Nutzung in Binder (ohne lokale Installation)
 
 ### Lokale Installation
-
+**Voraussetzungen**:
+* Python Installation in Version 3.9 (nicht 3.10, wenn Gitma verwendet werden soll)
+* Jupyter Notebook Installation
 1. **Repository klonen und in das entsprechende Verzeichnis wechseln**  
    ```
    git clone https://github.com/dein-user/animacy-annotation.git
@@ -36,4 +38,9 @@ Der zugrundeliegende Code basiert auf dem Projekt **"Animacy in German Folktales
     ```
     jupyter notebook
     ```
-5. `animacy_annotation.ipynb` öffnen und ausführen.
+
+5. Das gitma Python Package installieren
+   ```
+   pip install git+https://github.com/forTEXT/gitma
+   ```
+6.  `animacy_annotation.ipynb` öffnen und ausführen.
