@@ -23,8 +23,8 @@ Der zugrundeliegende Code basiert auf dem Projekt **"Animacy in German Folktales
 * Jupyter Notebook Installation
 1. **Repository klonen und in das entsprechende Verzeichnis wechseln**  
    ```
-   git clone https://github.com/dein-user/animacy-annotation.git
-   cd animacy-annotation
+   git clone https://github.com/janis711/animacy-classification-course.git
+   cd animacy-classification-course
    ```
    Falls Git nicht installiert ist, kann der Code als ZIP-Datei von GitHub heruntergeladen werden:
    * Klicke auf "Code" und wähle "Download ZIP"
