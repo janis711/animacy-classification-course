@@ -33,17 +33,12 @@ Der zugrundeliegende Code basiert auf dem Projekt **"Animacy in German Folktales
    ```
    pip install -r requirements.txt
    ```
-3. **Zusätzliche Abhängigkeiten über postBuild installieren**
-    ```
-    bash postBuild
-    ```
+3. Das gitma Python Package installieren
+   ```
+   pip install git+https://github.com/forTEXT/gitma
+   ```
 4. Jupyter Notebook starten
     ```
     jupyter notebook
     ```
-
-5. Das gitma Python Package installieren
-   ```
-   pip install git+https://github.com/forTEXT/gitma
-   ```
-6.  `animacy_annotation.ipynb` öffnen und ausführen.
+5.  `animacy_annotation.ipynb` öffnen und ausführen.
