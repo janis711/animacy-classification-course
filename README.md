@@ -26,6 +26,10 @@ Der zugrundeliegende Code basiert auf dem Projekt **"Animacy in German Folktales
    git clone https://github.com/dein-user/animacy-annotation.git
    cd animacy-annotation
    ```
+   Falls Git nicht installiert ist, kann der Code als ZIP-Datei von GitHub heruntergeladen werden:
+   * Gehe zu GitHub Repository
+   * Klicke auf "Code" und wähle "Download ZIP"
+   * Entpacke die Datei und wechsle in das entpackte Verzeichnis
 2. **Abhängigkeiten installieren**
    ```
    pip install -r requirements.txt
