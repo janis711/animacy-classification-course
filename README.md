@@ -19,7 +19,7 @@ Der zugrundeliegende Code basiert auf dem Projekt **"Animacy in German Folktales
 
 ### Lokale Installation
 **Voraussetzungen**:
-* Python Installation in Version 3.9 (nicht 3.10, wenn Gitma verwendet werden soll)
+* Python Installation in Version 3.9.* (nicht 3.10, wenn Gitma verwendet werden soll)
 * Jupyter Notebook Installation
 1. **Repository klonen und in das entsprechende Verzeichnis wechseln**  
    ```
