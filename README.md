@@ -18,7 +18,7 @@ Der zugrundeliegende Code basiert auf dem Projekt **"Animacy in German Folktales
 ## Nutzung des Docker-Containers
 
 Dieses Repository kann direkt in einem Docker-Container verwendet werden.  
-Dazu ist **Docker** erforderlich. Falls Docker noch nicht installiert ist, folge diesen Schritten:
+Dazu ist **Docker** erforderlich.
 
 ### 1. Docker installieren  
 Falls Docker noch nicht installiert ist, lade es hier herunter und installiere es:  
