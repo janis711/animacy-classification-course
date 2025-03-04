@@ -21,27 +21,27 @@ Dieses Repository kann direkt in einem Docker-Container verwendet werden.
 Dazu ist **Docker** erforderlich.
 
 1. **Docker installieren**
-Falls Docker noch nicht installiert ist, lade es hier herunter und installiere es:  
-🔗 [Docker herunterladen](https://docs.docker.com/get-docker/)  
+   Falls Docker noch nicht installiert ist, lade es hier herunter und installiere es:  
+   🔗 [Docker herunterladen](https://docs.docker.com/get-docker/)  
 
-2. **Docker-Image herunterladen**  
-Das vorbereitete Image ist auf **Docker Hub** verfügbar. Um es zu laden, führe folgenden Befehl aus:  
-```sh
-docker pull janis711/animacy-annotation-course:latest
-```
+2. **Docker-Image herunterladen**
+   Das vorbereitete Image ist auf **Docker Hub** verfügbar. Um es zu laden, führe folgenden Befehl aus:
+   ```sh
+   docker pull janis711/animacy-annotation-course:latest
+   ```
 3. **Docker Container starten**
-```sh
-docker run -p 8888:8888 janis711/animacy-annotation-course
-```
+   ```sh
+   docker run -p 8888:8888 janis711/animacy-annotation-course
+   ```
 4. **Jupyter Notebook öffnen**
-Nach dem Start gibt Docker eine Jupyter Notebook URL aus (z. B.: http://127.0.0.1:8888/...). Öffne diesen Link im Browser und öffne das Notebook animacy_annotation.ipynb.
+   Nach dem Start gibt Docker eine Jupyter Notebook URL aus (z. B.: http://127.0.0.1:8888/...). Öffne diesen Link im Browser und öffne das Notebook animacy_annotation.ipynb.
 
 5. **Container stoppen**
-Nach der Nutzung kann der Docker Container wieder gestoppt werden:
-```sh 
-docker ps  # Zeigt laufende Container an
-docker stop CONTAINER_ID
-```
+   Nach der Nutzung kann der Docker Container wieder gestoppt werden:
+   ```sh 
+   docker ps  # Zeigt laufende Container an
+   docker stop CONTAINER_ID
+   ```
 
 ### Lokale Installation
 **Voraussetzungen**:
