@@ -34,6 +34,7 @@ Dazu ist **Docker** erforderlich.
    docker run -p 8888:8888 janis711/animacy-annotation-course
    ```
 4. **Jupyter Notebook öffnen**
+   
    Nach dem Start gibt Docker eine Jupyter Notebook URL aus (z. B.: `http://127.0.0.1:8888/...`). Öffne diesen Link im Browser und öffne das Notebook animacy_annotation.ipynb.
 
 5. **Container stoppen**
