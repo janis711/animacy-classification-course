@@ -1,21 +1,8 @@
-# Basis-Image mit Python 3.9.13
 FROM python:3.9.13
-
-# Setze Arbeitsverzeichnis
 WORKDIR /app
-
-# Kopiere die notwendigen Dateien
-COPY requirements.txt .
-COPY postBuild .
-
-# Installiere alle Pakete aus requirements.txt
+COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install git+https://github.com/forTEXT/gitma
+CMD ["jupyter", "notebook", "animacy_annotation.ipynb", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
 
-# Setze Datei-Upload-Limits auf unbegrenzt
-RUN echo "fs.file-max = 524288" >> /etc/sysctl.conf && \
-    echo "* soft nofile 524288" >> /etc/security/limits.conf && \
-    echo "* hard nofile 524288" >> /etc/security/limits.conf
-
-# Mache postBuild ausführbar und führe es aus
-RUN chmod +x postBuild && ./postBuild
 
