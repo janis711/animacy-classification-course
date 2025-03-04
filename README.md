@@ -25,6 +25,7 @@ Dazu ist **Docker** erforderlich.
    🔗 [Docker herunterladen](https://docs.docker.com/get-docker/)  
 
 2. **Docker-Image herunterladen**
+   
    Das vorbereitete Image ist auf **Docker Hub** verfügbar. Um es zu laden, führe folgenden Befehl aus:
    ```sh
    docker pull janis711/animacy-annotation-course:latest
@@ -38,6 +39,7 @@ Dazu ist **Docker** erforderlich.
    Nach dem Start gibt Docker eine Jupyter Notebook URL aus (z. B.: `http://127.0.0.1:8888/...`). Öffne diesen Link im Browser und öffne das Notebook animacy_annotation.ipynb.
 
 5. **Container stoppen**
+   
    Nach der Nutzung kann der Docker Container wieder gestoppt werden:
    ```sh 
    docker ps  # Zeigt laufende Container an
