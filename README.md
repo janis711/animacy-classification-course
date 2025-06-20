@@ -26,12 +26,12 @@ This requires **Docker**.
 
 2. **Download Docker image**
    
-   The prepared image is available on **Docker Hub**. To load it, run the following command:
-```sh
+   The prepared image is available on **Docker Hub**. Make sure Docker  Desktop is running. To load the image, run the following command in your terminal:
+   ```sh
    docker pull janis711/animacy-annotation-course:latest
    ```
-3. **Start Docker container**
-```sh
+3. **Start Docker container** 
+   ```sh
    docker run -p 8888:8888 janis711/animacy-annotation-course
    ```
 4. **Open Jupyter Notebook**
